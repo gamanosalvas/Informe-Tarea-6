@@ -1,13 +1,15 @@
 
 Universidad de las Fuerzas Armadas "ESPE"
+
 Fundamentos de Circuitos Electricos
+
 Informe Tarea Nº6
 
-Integrantes: Mera Erick, Robalino Johanna, Sandoval Kevin, Vallejo Keily
+Integrantes: Allauca Steven, Luero Danilo, Manosalvas Gabriel.
 
 Carrera: Ing. en Electrónica y Automatización
 
-NRC: 5406
+NRC: 10133
 
 Docente: Ing. Darwin Alulema
 
@@ -42,7 +44,7 @@ Ejercicios Capítulo 12
 
 
 4. Video:
-https://www.youtube.com/watch?v=HW-vrVTaM7A
+
 
 5. Conclusiones:
 • Entendimos como varios de los dispositivos que usamos comúnmente están enlazados con los circuitos magnéticos.
