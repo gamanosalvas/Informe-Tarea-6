@@ -60,6 +60,7 @@ a) 1s      b) 0.2s               c) 50ms             d) 1ms       e) 500 µs    
 
 
 5.  La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+
 ![image](https://user-images.githubusercontent.com/94026628/149451750-d5bfd679-d4f8-4315-88f1-e612b866a4fe.png)
 
 7.  ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
