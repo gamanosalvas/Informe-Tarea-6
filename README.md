@@ -148,6 +148,7 @@ luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la
 
 4. Video:
 
+https://youtu.be/EBYtW6nADug
 
 5. Conclusiones:
 
