@@ -131,14 +131,17 @@ Ejercicios Capítulo 12
 
 ![image](https://user-images.githubusercontent.com/94025287/149436172-e65f363c-c806-4ead-9e7e-3bd63ad05d53.png)
 
+![image](https://user-images.githubusercontent.com/94025287/149436757-231d0cf6-079a-430c-a88e-a7b6cd2acbab.png)
+
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y
 luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
 ![image](https://user-images.githubusercontent.com/94025287/149436228-2d7b3055-fb6b-4c7c-8831-3a0ae5105eba.png)
 
-![image](https://user-images.githubusercontent.com/94025287/149436757-231d0cf6-079a-430c-a88e-a7b6cd2acbab.png)
+![image](https://user-images.githubusercontent.com/94025287/149437526-de4381be-ebe9-4c56-944d-6c285dffee28.png)
 
+![image](https://user-images.githubusercontent.com/94025287/149437697-93ca6a6a-d0f6-4480-9a16-7c746e925850.png)
 
 
 4. Video:
