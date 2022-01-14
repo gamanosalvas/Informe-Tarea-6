@@ -46,6 +46,129 @@ Capítulo 12
 
 Ejercicios Capítulo 11
 
+1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+
+a) 1s      b) 0.2s               c) 50ms             d) 1ms       e) 500 µs    f) 10 µs
+
+![image](https://user-images.githubusercontent.com/94026628/149450488-5af3df03-af7b-4a56-955e-57828bf986a4.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149450626-e221784d-a7ed-41f2-88db-bc62e14139b4.png)
+
+3. Una onda sinodal realiza 5 ciclos en 10 µs. ¿Cuál es su periodo?
+
+![image](https://user-images.githubusercontent.com/94026628/149451802-1caa5309-cebf-4b01-ace8-ab7d7c9d2df2.png)
+
+
+5.  La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+![image](https://user-images.githubusercontent.com/94026628/149451750-d5bfd679-d4f8-4315-88f1-e612b866a4fe.png)
+
+7.  ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+![image](https://user-images.githubusercontent.com/94026628/149451923-b1b28648-9777-45f8-9e3e-8419c9964f48.png)
+
+9. Repita el problema 8 para el circuito de la figura 11-52
+
+![image](https://user-images.githubusercontent.com/94026628/149452227-ce9d6af8-9d66-4dcf-a872-f99d9dc82f94.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149452469-431062e1-0f5e-4780-98a3-826ad118a29b.png)
+
+11. Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
+
+![image](https://user-images.githubusercontent.com/94026628/149452787-35f8e59d-1cd2-4a7d-9134-c4c39a56a0ae.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149452800-6088d2fc-c6b5-4354-8509-bb16958d3450.png)
+
+13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t =0 y determine el voltaje y corriente del capacitor en t =0+, 40, 80, 120, 160 y 200 us, use las curvas de la constante de tiempo universal.
+
+![image](https://user-images.githubusercontent.com/94026628/149452822-8bdd5fce-69c2-4750-a3aa-da79bbb6317e.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149452834-7a519244-c177-47a6-9214-84a02078461f.png)
+
+15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargar. Si E = 75 V, determine R y C.
+
+![image](https://user-images.githubusercontent.com/94026628/149452868-a49c312f-441f-4a62-aa2f-4d46a7501226.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149452875-061c1aef-47b1-4fa1-9f97-8b958eaa186a.png)
+
+17. Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de 3.679 mA, y el capacitor se carga a 45 voltios en estado estable.
+
+![image](https://user-images.githubusercontent.com/94026628/149452965-ffaaf36e-f048-40d4-97a2-70990efd6b1c.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149454425-89cd1c8f-4eb2-4e88-9274-636c43d4a55b.png)
+
+19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0 = 10 V, ¿cuál es la corriente justo después de que el interruptor se ha cerrado?
+
+![image](https://user-images.githubusercontent.com/94026628/149454788-76032260-231e-4baa-8e8d-f39322af789c.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149454839-e79421e1-0889-4b06-ae50-c217eaeacbb8.png)
+
+21.Para el condensador de la figura 11-51, V0 = 30 V.
+
+![image](https://user-images.githubusercontent.com/94026628/149454881-c2aa2150-10dc-49be-a2ae-923b2c897add.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149454901-f9ff2cff-801e-4a24-a67a-59ef7771ce8f.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149454920-e96aade9-b6eb-45fa-8f15-b8f6900f5c73.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455096-d641b48e-fafe-4e24-99f9-8347beee3f91.png)
+
+23.Para el circuito de la figura 11-53, suponga que el capacitor está cargado a 50 V antes de que el interruptor se cierre.
+
+![image](https://user-images.githubusercontent.com/94026628/149455131-34fc8e10-d0f7-4379-956b-ade0e98e9066.png)
+
+
+![image](https://user-images.githubusercontent.com/94026628/149455142-81e39966-e3ba-4c37-a112-b9f02660f3b4.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455162-2b0be84d-3914-4d00-b804-32ca17f700e8.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455170-4f9127cf-7a06-45c0-862c-7c04fcd088a0.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455213-63b922b7-05d4-40b3-9091-52d646e445f0.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455226-c810cefc-bd43-44ec-a1a9-0d3cbc7c3ba7.png)
+
+Voltaje-Tiempo
+
+![image](https://user-images.githubusercontent.com/94026628/149455262-0402288d-0305-4d05-8509-84349494949d.png)
+
+Corriente-Tiempo
+
+![image](https://user-images.githubusercontent.com/94026628/149455281-1df04e5a-df4d-4d63-9339-12af81a51620.png)
+
+25.Un condensador de 4,7 F se carga a 43 voltios. Si un resistor de 39 kse conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?
+
+![image](https://user-images.githubusercontent.com/94026628/149455321-218836ea-2c53-4016-aa62-5eede4830318.png)
+
+27.Para la figura 11-54, sea E 200 V, R2 1 ky C 0.5 F. Después de que el capacitor está totalmente cargado en la posición 1, el interruptor es movido a la posición 2.
+
+![image](https://user-images.githubusercontent.com/94026628/149455387-18d71600-b27f-468f-a71a-65e2d289e83d.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455397-d0e27584-52b5-48af-b4e1-4eec365e4371.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455409-5363a63e-c24d-4ae1-8af3-16219d154de3.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455425-2bfad2b9-9ec1-440d-9d22-f3e26b402321.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455435-f58c82ac-c38a-47a2-8593-c1393e54ac5c.png)
+
+29.Los condensadores de la figura 11-55 están descargados. El interruptor se cierra en t =0. Determine la fórmula para vC. Calcule vC a una constante de tiempo usando la ecuación y la curva de constante de tiempo universal. Compare sus respuestas.
+
+![image](https://user-images.githubusercontent.com/94026628/149455481-803e8366-ecc2-4292-b2ff-2b58ba3125ee.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455489-33e68358-a055-4cd7-b147-d3a250cfc5d1.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455495-1fee6420-e9d8-40c8-9bbd-6b3b957c53d4.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455498-01686109-8617-4992-9b78-18426ff1f355.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455505-ece4d061-f414-4a0a-98ef-f43b4ee45e50.png)
+
+31.Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
+
+![image](https://user-images.githubusercontent.com/94026628/149455531-52d451df-08f5-4d13-a60a-738f7c88df32.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149455543-35d04bb0-9bdc-4866-a252-a211c4e82a2b.png)
+
 33.- Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
 
 ![image](https://user-images.githubusercontent.com/94025287/149535605-1998c95d-7165-4952-933e-a5348d59f94e.png)
