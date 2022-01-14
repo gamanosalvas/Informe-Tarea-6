@@ -46,8 +46,140 @@ Capítulo 12
 
 Ejercicios Capítulo 11
 
+33.- Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
+
+![image](https://user-images.githubusercontent.com/94025287/149535605-1998c95d-7165-4952-933e-a5348d59f94e.png)
+
+  tr = 3 - 1 = 2 [ms]
+
+  tf = 15 - 13 = 2 [ms]
+
+  tw = 14.5 - 2 = 12.5 [ms]
+  
+  35.- Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85.
+  
+  ![image](https://user-images.githubusercontent.com/94025287/149535681-46f82908-6785-4dfe-ae99-05127cf9d3cc.png)
+  
+  Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
+  Vprom = 5 + (0.5)(5)
+
+  Vprom = 7.5 [v]
+  
+  37.- Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
+  
+  ![image](https://user-images.githubusercontent.com/94025287/149535777-a9e7d1ee-8927-4d35-8bcc-271201d856ac.png)
+
+    a: 
+
+Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
+Vprom = -1 + (0.5)(2.5)
+
+Vprom = 0.25 [v]
+
+b: 
+
+Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
+Vprom = 1 + (0.5)(3)
+
+Vprom = 2.5 [v]
+
+39.- ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+
+![image](https://user-images.githubusercontent.com/94025287/149535884-1b56f48c-43a9-4ba4-8652-c2602b6f9fad.png)
+
+  a: 
+  f = 1/T
+  T = 20 
+  f = 1 / 20 
+  f = 50 kHz 
+  
+  b: 
+  T= 100
+  f = 1/100
+  f = 10 Hz 
+  
+  43.- Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
+  
+  ![image](https://user-images.githubusercontent.com/94025287/149535956-bdfc7901-0d05-4a31-bec3-2de478452de6.png)
+
+ Vp = 3 divisiones * 0.2 V/división = 0.6 [V]
+ T = 10 divisiones * 50 ms/división = 500 [ms]
+ 
+ 45.- Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![image](https://user-images.githubusercontent.com/94025287/149536012-a68b8dc6-5d25-46ed-afa5-2f44ad6c6808.png)
+
+  Vp  = 2Vp(salida) 1.2 [V]
+  T = 2T(salida) = 1000 [ms]
+  
 Ejercicios Capítulo 12
 
+CAPACITORES
+
+SECCIÓN 12–1 El capacitor básico
+
+1.- (a) Encuentre la capacitancia cuando Q = 50 mC y V = 10 V.
+
+(b) Determine la carga cuando C = 0.001 mF y V = 1 kV.
+
+(c) Determine el voltaje cuando Q = 2 mC y C = 200 mF.
+
+a:  C = Q/V = 50 mC/10 V = 5 uF
+
+b: Q = CV = (0.001 mF)(1000 V) = 1 mC
+
+c:  V = Q/C = 2 mC/200 mF = 10 mF
+3.- Transforme los siguientes valores de picofarads a microfarads:
+
+(a) 1000 pF (b) 3500 pF (c) 250 pF
+
+a: 1000 pF * 10-6 mF/pF = 0.001 mF
+b: 0.0035 mF
+c: 0.00025 mF
+5.- ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+ W = 0.5 CV
+ W = 0.5 (1000*10^-3)(500) = 250 J
+7.- Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
+
+(a) aire (b) aceite (c) vidrio (d) Teflón
+
+a: e = e0.er , si e0 es 8.85 x 10^-12 F/m e = 8.85 x 10^-12 (1.0) = 8.85 x 10^-12 F/m
+
+b: e = 8.85 x 10^-12 (4.0) = 3.54 x 10^-11 F/m
+
+c: e = 8.85 x 10^-12 (7.5) = 6.637 x 10^-11 F/m
+
+d: e = 8.85 x 10^-12 (2.0) = 1.77 x 10^-11 F/m
+
+9.- Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10^-4 m. Calcule la capacitancia.
+
+C = Aer(8.85 * 10-12 F/m) / d
+C = 0.005(1.0)(8.85 * 10-12 F/m) / (4.5 x 10^-4 m) = 0.9833 pF
+11.- Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 x 10^-5 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+   C = Aer(8.85 * 10-12 F/m) / d
+   A = (0.3)(0.3) = 0.09 m2
+   C = 0.09(2.5)(8.85 * 10-12 F/m) / (8 x 10^-5 m) = 0.0249 mF
+13.- Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+Cambio de C = 50 (25) = 1250 pF
+15.- De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+ er (mica) = 5.0
+ er (ceram..) = 1200
+
+ CAPACITOR CERAMICO
+17.- Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+
+ CAPACITORES DE ALUMINIO
+ CAPACITORES DE TANTALIO
+ 
+ TIENEN UN VOLTAJE DE RUPTURA  BAJOS
+ CANTIDADES DE FUGA ALTOS.
 
 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er =2.5) de 8 x10-5 de espesor. ¿Cuál es la capacitancia de su capacitor?
 
