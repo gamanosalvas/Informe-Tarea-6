@@ -109,6 +109,35 @@ Ejercicios Capítulo 12
 
 ![image](https://user-images.githubusercontent.com/94025287/149434678-11055ad3-e463-48e1-9c91-910e8e6168ee.png)
 
+33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
+(a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
+
+![image](https://user-images.githubusercontent.com/94025287/149434997-5fc6d3b3-12ee-4101-8f02-cd1f1751500a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149435530-911dbf21-f535-4f57-bf8b-35b43425b222.png)
+
+35. Repita el problema 33 con los siguientes tiempos:
+(a) 0.5 ms (b) 1 ms (c) 2 ms
+
+![image](https://user-images.githubusercontent.com/94025287/149435747-7e0024af-23fb-4f73-914e-3b0b2d94f614.png)
+
+37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/94025287/149435793-41a4dee8-02e5-465b-b469-ac1a9adbb55e.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149436126-13af2d28-5630-4b43-9e61-09c4f5368d4a.png)
+
+39. Determine la constante de tiempo para el circuito de la figura 12-77.
+
+![image](https://user-images.githubusercontent.com/94025287/149436172-e65f363c-c806-4ead-9e7e-3bd63ad05d53.png)
+
+41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y
+luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+
+![image](https://user-images.githubusercontent.com/94025287/149436228-2d7b3055-fb6b-4c7c-8831-3a0ae5105eba.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149436757-231d0cf6-079a-430c-a88e-a7b6cd2acbab.png)
 
 
 
