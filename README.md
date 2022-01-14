@@ -38,7 +38,7 @@ Capitulo 11
 
 Capítulo 12
 
-![image](https://user-images.githubusercontent.com/94025287/149429544-a363b75b-be8b-41f5-bc9e-fd703c18ecd8.png)
+![image](https://user-images.githubusercontent.com/94025287/149434828-6b48c8a0-c28e-4f80-814f-1cf171b011a5.png)
 
 
 3. Explicación y Resolución de ejercicios o problemas:
