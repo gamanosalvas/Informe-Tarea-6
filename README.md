@@ -13,10 +13,12 @@ NRC: 10133
 
 Docente: Ing. Darwin Alulema
 
-Tema: Cap 11 y 12 del libro Análisis de Circuitos Electricos 4ta Edición de Allan H. Robbins y Wilmer C. Miller.
+Tema: Cap 11 y 12 del libro Principios de circuitos electricos de Floyd.
 
 1.Objetivos:
+
 Generales:
+
 • Entender los principios de los circuitos magnéticos, para entender la operación de varios dispositivos electrónicos que usamos comúnmente.
 
 Especificos:
