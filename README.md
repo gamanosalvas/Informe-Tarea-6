@@ -150,6 +150,7 @@ luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la
 
 
 5. Conclusiones:
+
 • Entendimos como varios de los dispositivos que usamos comúnmente están enlazados con los circuitos magnéticos.
 
 • Concluimos que los campos magnéticos son campos de fuerza que actúan a distancia sin la necesidad de que haya contacto físico.
